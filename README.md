@@ -22,6 +22,9 @@ When we click on "Card Entry" Link .. we see a Card Entry form. As we fill in th
 
 <img width="975" alt="Screen Shot 2021-11-01 at 11 52 40 pm" src="https://user-images.githubusercontent.com/22933871/139664032-84226fcf-dd39-4b63-9e29-4328dc0b745f.png">
 
+<img width="1429" alt="Screen Shot 2021-11-02 at 12 59 37 am" src="https://user-images.githubusercontent.com/22933871/139668238-e4914012-d821-434a-82a8-ed96fd0fcbbd.png">
+
+
 <img width="1409" alt="Screen Shot 2021-11-01 at 11 52 17 pm" src="https://user-images.githubusercontent.com/22933871/139664059-2bd7fd13-1ae8-4d20-8f50-704c46cb13e2.png">
 
 <img width="833" alt="Screen Shot 2021-11-01 at 11 51 44 pm" src="https://user-images.githubusercontent.com/22933871/139664084-eae0a308-6af1-43a5-b020-5c79c9b6faa6.png">
