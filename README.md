@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About the Project
+The application has been developed using React js, Node js and TypeScript
+Some additional dependencies used are Moment, Jest ,Enzyme, React-DatePicker, styled components, payment.
+The application is web responsive. 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -10,6 +16,21 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+We can see a hamburger menu on left side of the webpage which when clicked has two links "Card Entry" and "Home Page" (these can be used for toggling between the pages)
+
+When we click on "Card Entry" Link .. we see a Card Entry form. As we fill in the details , the same details get updated for the Card displayed on the screen.
+
+<img width="975" alt="Screen Shot 2021-11-01 at 11 52 40 pm" src="https://user-images.githubusercontent.com/22933871/139664032-84226fcf-dd39-4b63-9e29-4328dc0b745f.png">
+
+<img width="1409" alt="Screen Shot 2021-11-01 at 11 52 17 pm" src="https://user-images.githubusercontent.com/22933871/139664059-2bd7fd13-1ae8-4d20-8f50-704c46cb13e2.png">
+
+<img width="833" alt="Screen Shot 2021-11-01 at 11 51 44 pm" src="https://user-images.githubusercontent.com/22933871/139664084-eae0a308-6af1-43a5-b020-5c79c9b6faa6.png">
+
+<img width="751" alt="Screen Shot 2021-11-01 at 11 52 03 pm" src="https://user-images.githubusercontent.com/22933871/139664114-a4bb9124-63d6-42ed-b4db-cd559b0dc4b7.png">
+
+
+
+
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
